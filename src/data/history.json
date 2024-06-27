@@ -1,0 +1,23 @@
+[
+    {
+      "role": "Desenvolvimento de Software Multiplataforma - FATEC Matão",
+      "startDate": "Jan, 2023",
+      "endDate": "Dez, 2025",
+      "experiences": ["Curso Superior de Tecnologia - Período Matutino"],
+      "imageSrc": "history/dsm.png"
+    },
+    {
+      "role": "Curso C# Essencial (.NET 8)",
+      "startDate": "Dez, 2023",
+      "endDate": "Fev, 2024",
+      "experiences": ["Fundamentos do C# e Lógica de Programação"],
+      "imageSrc": "history/udemy.png"
+    },
+    {
+      "role": "Bootcamp .NET Developer",
+      "startDate": "Mar, 2024",
+      "endDate": "Mai, 2024",
+      "experiences": ["Desenvolvimento de Projetos Práticos e Testes Unitários"],
+      "imageSrc": "history/net_bootcamp_dio.png"
+    }
+  ]

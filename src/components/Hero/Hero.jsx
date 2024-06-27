@@ -11,7 +11,7 @@ export const Hero = () => {
               Sou estudante de tecnologia e estou em busca de uma oportunidade para ingressar na 
               área de desenvolvimento de software.
             </p>
-            <a href="mailto:jovepedro@gmail.com" className={styles.contactBtn}>
+            <a href="https://www.linkedin.com/in/joaoveasey/" className={styles.contactBtn}>
               Contato
             </a>
         </div>

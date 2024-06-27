@@ -18,7 +18,7 @@ export const About = () => {
                     <div className={styles.aboutItemText}>
                         <h3>Desenvolvimento Front-end</h3>
                         <p>No front-end tive contato com HTML, CSS e Javascript, 
-                        além do framework React</p>
+                        além do framework React.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
@@ -34,7 +34,7 @@ export const About = () => {
                     <div className={styles.aboutItemText}>
                         <h3>Metodologias Ágeis</h3>
                         <p>Conheço metodologias ágeis que facilitam o desenvolvimento, 
-                        como o Scrum e o Kanban</p>
+                        como o Scrum e o Kanban.</p>
                     </div>
                 </li>
             </ul>
