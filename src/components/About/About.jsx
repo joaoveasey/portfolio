@@ -18,15 +18,15 @@ export const About = () => {
                     <div className={styles.aboutItemText}>
                         <h3>Desenvolvimento Front-end</h3>
                         <p>No front-end tive contato com HTML, CSS e Javascript, 
-                        além do framework React.</p>
+                        além do framework React para interfaces dinâmicas e responsivas.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
                     <img src={getImageUrl("about/serverIcon.png")} alt="cursorIcon" />
                     <div className={styles.aboutItemText}>
                         <h3>Desenvolvimento Back-end</h3>
-                        <p>No back-end, estudo a linguagem C#, Banco de Dados Relacionais (SQL)
-                        e API Rest.</p>
+                        <p>Estudo e aplico a linguagem C# no desenvolvimento back-end, 
+                            trabalhando com bancos de dados relacionais (SQL) e APIs REST.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
