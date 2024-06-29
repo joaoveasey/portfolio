@@ -1,18 +1,18 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Conexão Canina",
+      "imageSrc": "projects/conexao_canina.png",
+      "description": "Projeto feito com intuito de facilitar o encontro de cães.",
+      "skills": ["HTML","CSS","React", "Firebase"],
+      "demo": "https://projeto-pets-conexao-canina.web.app",
+      "source": "https://github.com/joaoveasey/projeto-pets-react"
     },
     {
       "title": "Project B",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
+      "demo": "https://projeto-pets-conexao-canina.web.app",
       "source": "https://www.github.com"
     },
     {

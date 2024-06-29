@@ -14,6 +14,14 @@ export const About = () => {
             />
             <ul className={styles.aboutItems}>
                 <li className={styles.aboutItem}>
+                    <img src={getImageUrl("about/lastIcon.png")} alt="lastIcon" />
+                    <div className={styles.aboutItemText}>
+                        <h3>Estágio em TI</h3>
+                        <p>Faço estágio na empresa <a href="https://supley.com.br">Supley</a>, onde tenho a oportunidade de conhecer 
+                        mais sobre o ambiente de trabalho. (Out, 2023 - Presente)</p>
+                    </div>
+                </li>
+                <li className={styles.aboutItem}>
                     <img src={getImageUrl("about/cursorIcon.png")} alt="cursorIcon" />
                     <div className={styles.aboutItemText}>
                         <h3>Desenvolvimento Front-end</h3>
@@ -27,14 +35,6 @@ export const About = () => {
                         <h3>Desenvolvimento Back-end</h3>
                         <p>Estudo e aplico a linguagem C# no desenvolvimento back-end, 
                             trabalhando com bancos de dados relacionais (SQL) e APIs REST.</p>
-                    </div>
-                </li>
-                <li className={styles.aboutItem}>
-                    <img src={getImageUrl("about/lastIcon.png")} alt="lastIcon" />
-                    <div className={styles.aboutItemText}>
-                        <h3>Metodologias Ágeis</h3>
-                        <p>Conheço metodologias ágeis que facilitam o desenvolvimento, 
-                        como o Scrum e o Kanban.</p>
                     </div>
                 </li>
             </ul>
