@@ -8,19 +8,37 @@
       "source": "https://github.com/joaoveasey/projeto-pets-react"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://projeto-pets-conexao-canina.web.app",
-      "source": "https://www.github.com"
+      "title": "Crud API",
+      "imageSrc": "projects/crud_api.png",
+      "description": "Projeto que realiza operações básicas com Banco de Dados.",
+      "skills": ["C#", "Swagger", "SQL Server"],
+      "source": "https://github.com/joaoveasey/crud-api"
     },
     {
-      "title": "Project C",
+      "title": "Calculadora com Testes",
+      "imageSrc": "projects/calculadora_testes.png",
+      "description": "Projeto feito para aprimorar conhecimentos em testes unitários com xUnit.",
+      "skills": ["C#", ".NET","xUnit"],
+      "source": "https://github.com/joaoveasey/calculadora-orientada-a-testes"
+    },
+    {
+      "title": "Registro de Usuário",
+      "imageSrc": "projects/windows_forms.png",
+      "description": "Neste projeto criei uma aplicação para registro de usuários usando Windows Forms.",
+      "skills": ["C#", "Windows Forms", "SQL Server"],
+      "source": "https://github.com/joaoveasey/user-registry-form/tree/master"
+    },
+    {
+      "title": "API com MongoDB",
+      "imageSrc": "projects/mongo_db_crud.png",
+      "description": "Projeto para aplicar conhecimentos da matéria Banco de Dados NoSQL.",
+      "skills": ["JavaScript", "Node.js", "MongoDB", "Postman"],
+      "source": "https://github.com/joaoveasey/mongo-db-node-crud"
+    },
+    {
+      "title": "Consumindo API Externa",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "(em progresso).",
+      "skills": ["C#", ".NET", "Swagger"]
     }
   ]
