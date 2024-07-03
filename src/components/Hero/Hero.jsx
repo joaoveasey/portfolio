@@ -6,10 +6,11 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
         <div className={styles.content}>
-            <h1 className={styles.title}>Seja bem-vindo(a)</h1>
+            <h1 className={styles.title}>Oi, sou o João</h1>
+
             <p className={styles.description}>
-              Sou estudante de tecnologia e estou em busca de uma oportunidade para ingressar na 
-              área de desenvolvimento de software.
+              Sou estudante de Desenvolvimento de Software e procuro uma oportunidade para ingressar na 
+              área.
             </p>
             <a href="https://www.linkedin.com/in/joaoveasey/" className={styles.contactBtn}>
               Contato

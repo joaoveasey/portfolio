@@ -30,7 +30,7 @@ export const Experience = () => {
                                 alt={`${historyItem.role} Logo`} 
                             />
                             <div className={styles.historyItemDetails}>
-                                <h3>{`${historyItem.role}`}</h3>
+                                <a href={historyItem.link}><h3>{`${historyItem.role}`}</h3></a>
                                 <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
                                 <ul>{historyItem.experiences.map((experience, id) => {
                                     return <li key={id}>{experience}</li>

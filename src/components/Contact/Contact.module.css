@@ -56,3 +56,17 @@
         align-items: center;
     }
 }
+
+@media screen and (max-width: 600px) {
+    .text h2{
+        font-size: 60px;
+    }
+
+    .links a {
+        font-size: 24px;
+    }
+
+    .links img {
+        width: 30px;
+    }
+}

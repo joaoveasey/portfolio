@@ -82,6 +82,11 @@
   font-family: var(--font-roboto);
 }
 
+.historyItem a {
+  text-decoration: none;
+  color: var(--color-text);
+}
+
 .historyItemDetails h3 {
   font-size: 30px;
   font-weight: 500;
