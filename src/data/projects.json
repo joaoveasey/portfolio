@@ -2,7 +2,7 @@
     {
       "title": "Conexão Canina",
       "imageSrc": "projects/conexao_canina.png",
-      "description": "Projeto feito com intuito de facilitar o encontro de cães.",
+      "description": "Project designed to facilitate dog encounters.",
       "skills": ["HTML","CSS","React", "Firebase"],
       "demo": "https://projeto-pets-conexao-canina.web.app",
       "source": "https://github.com/joaoveasey/projeto-pets-react"
@@ -10,35 +10,35 @@
     {
       "title": "Crud API",
       "imageSrc": "projects/crud_api.png",
-      "description": "Projeto que realiza operações básicas com Banco de Dados.",
+      "description": "Project that performs basic operations with Database.",
       "skills": ["C#", "Swagger", "SQL Server"],
       "source": "https://github.com/joaoveasey/crud-api"
     },
     {
-      "title": "Calculadora com Testes",
+      "title": "Calculator with Tests",
       "imageSrc": "projects/calculadora_testes.png",
-      "description": "Projeto feito para aprimorar conhecimentos em testes unitários com xUnit.",
+      "description": "Project designed to improve knowledge in unit testing with xUnit.",
       "skills": ["C#", ".NET","xUnit"],
       "source": "https://github.com/joaoveasey/calculadora-orientada-a-testes"
     },
     {
-      "title": "Registro de Usuário",
+      "title": "User Register",
       "imageSrc": "projects/windows_forms.png",
-      "description": "Neste projeto criei uma aplicação para registro de usuários usando Windows Forms.",
+      "description": "In this project I created an application for user registration using Windows Forms.",
       "skills": ["C#", "Windows Forms", "SQL Server"],
       "source": "https://github.com/joaoveasey/user-registry-form/tree/master"
     },
     {
-      "title": "API com MongoDB",
+      "title": "MongoDB API",
       "imageSrc": "projects/mongo_db_crud.png",
-      "description": "Projeto para aplicar conhecimentos da matéria Banco de Dados NoSQL.",
+      "description": "Project to apply knowledge of the NoSQL Database subject.",
       "skills": ["JavaScript", "Node.js", "MongoDB", "Postman"],
       "source": "https://github.com/joaoveasey/mongo-db-node-crud"
     },
     {
-      "title": "Consumindo API Externa",
+      "title": "Consuming External API",
       "imageSrc": "projects/project.png",
-      "description": "(em progresso).",
+      "description": "(in progress)",
       "skills": ["C#", ".NET", "Swagger"]
     }
   ]

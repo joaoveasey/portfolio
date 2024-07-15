@@ -1,11 +1,19 @@
 [
     {
       "title": "C#",
-      "imageSrc": "skills/csharp.png"
+      "imageSrc": "skills/csharp.svg"
+    },
+    {
+      "title": ".NET",
+      "imageSrc": "skills/dot_net.svg"
     },
     {
       "title": "SQL",
       "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "API",
+      "imageSrc": "skills/web_api.png"
     },
     {
       "title": "React",
@@ -22,6 +30,18 @@
     {
       "title": "JavaScript",
       "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.svg"
+    },
+    {
+      "title": "Scrum",
+      "imageSrc": "skills/scrum.png"
+    },
+    {
+      "title": "CI/CD",
+      "imageSrc": "skills/ci_cd.png"
     },
     {
       "title": "B1 English",

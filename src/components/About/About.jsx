@@ -5,36 +5,36 @@ import styles from "./About.module.css"
 export const About = () => {
   return (
     <section className={styles.container} id='about'>
-        <h2 className={styles.title}>Sobre</h2>
+        <h2 className={styles.title}>About</h2>
         <div className={styles.content}>
             <img 
                 src={getImageUrl("about/aboutImage.png")} 
-                alt="Menino com notebook"
+                alt="boy with laptop"
                 className={styles.aboutImage} 
             />
             <ul className={styles.aboutItems}>
                 <li className={styles.aboutItem}>
-                    <img src={getImageUrl("about/lastIcon.png")} alt="lastIcon" />
+                    
                     <div className={styles.aboutItemText}>
-                        <h3>Estágio em TI</h3>
-                        <p>Faço estágio na empresa <a href="https://supley.com.br">Supley</a>, onde tenho a oportunidade de conhecer 
-                        mais sobre o ambiente de trabalho. (Out, 2023 - Presente)</p>
+                        <p>My name is João Veasey Pedro, I'm 19 years old and I live in Matão, SP.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
-                    <img src={getImageUrl("about/cursorIcon.png")} alt="cursorIcon" />
+                    
                     <div className={styles.aboutItemText}>
-                        <h3>Desenvolvimento Front-end</h3>
-                        <p>No front-end tive contato com HTML, CSS e Javascript, 
-                        além do framework React para interfaces dinâmicas e responsivas.</p>
+                        <p>Studying the 4th semester of Multiplataform Software Development.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
-                    <img src={getImageUrl("about/serverIcon.png")} alt="cursorIcon" />
+                    
                     <div className={styles.aboutItemText}>
-                        <h3>Desenvolvimento Back-end</h3>
-                        <p>Estudo e aplico a linguagem C# no desenvolvimento back-end, 
-                            trabalhando com bancos de dados relacionais (SQL) e APIs REST.</p>
+                        <p>I do an IT internship at the company  <a href='https://supley.com.br'>Supley</a>, it is an environment where I can receive feedback and learn new concepts and skills.</p>
+                    </div>
+                </li>
+                <li className={styles.aboutItem}>
+                   
+                    <div className={styles.aboutItemText}>
+                        <p>I am currently studying to be a Full Stack Developer.</p>
                     </div>
                 </li>
             </ul>

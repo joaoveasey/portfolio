@@ -9,7 +9,7 @@ import { getImageUrl } from '../../utils'
 export const Experience = () => {
   return (
     <section className={styles.container} id='experience'>
-        <h2 className={styles.title}>Conhecimentos e Cursos</h2>
+        <h2 className={styles.title}>Skills</h2>
         <div className={styles.content}>
             <div className={styles.skills}>{
                 skills.map((skill, id) => {
@@ -21,7 +21,7 @@ export const Experience = () => {
                     </div>
                 })
             }</div>
-            <ul className={styles.history}>
+            {/* <ul className={styles.history}>
                 {
                     history.map((historyItem, id) => {
                         return <li key={id} className={styles.historyItem}>
@@ -39,7 +39,7 @@ export const Experience = () => {
                         </li>
                     })
                 }
-            </ul>
+            </ul> */}
         </div>
     </section>
   )
