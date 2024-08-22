@@ -8,16 +8,20 @@
       "imageSrc": "skills/dot_net.svg"
     },
     {
-      "title": "SQL",
-      "imageSrc": "skills/sql.png"
-    },
-    {
-      "title": "API",
+      "title": "Web API",
       "imageSrc": "skills/web_api.png"
     },
     {
       "title": "React",
       "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png"
     },
     {
       "title": "HTML",
@@ -28,13 +32,10 @@
       "imageSrc": "skills/css.png"
     },
     {
-      "title": "JavaScript",
-      "imageSrc": "skills/javascript.png"
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
     },
-    {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.svg"
-    },
+    
     {
       "title": "Scrum",
       "imageSrc": "skills/scrum.png"
@@ -44,7 +45,7 @@
       "imageSrc": "skills/ci_cd.png"
     },
     {
-      "title": "B1 English",
+      "title": "B2 English",
       "imageSrc": "skills/english_level.png"
     }
   ]

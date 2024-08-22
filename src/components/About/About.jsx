@@ -13,31 +13,31 @@ export const About = () => {
                 className={styles.aboutImage} 
             />
             <ul className={styles.aboutItems}>
-                <li className={styles.aboutItem}>
-                    
-                    <div className={styles.aboutItemText}>
-                        <p>My name is João Veasey Pedro, I'm 19 years old and I live in Matão, SP.</p>
-                    </div>
-                </li>
-                <li className={styles.aboutItem}>
-                    
-                    <div className={styles.aboutItemText}>
-                        <p>Studying the 4th semester of Multiplataform Software Development.</p>
-                    </div>
-                </li>
-                <li className={styles.aboutItem}>
-                    
-                    <div className={styles.aboutItemText}>
-                        <p>I do an IT internship at the company  <a href='https://supley.com.br'>Supley</a>, it is an environment where I can receive feedback and learn new concepts and skills.</p>
-                    </div>
-                </li>
-                <li className={styles.aboutItem}>
-                   
-                    <div className={styles.aboutItemText}>
-                        <p>I am currently studying to be a Full Stack Developer.</p>
-                    </div>
-                </li>
-            </ul>
+    <li className={styles.aboutItem}>
+    <img src={getImageUrl("about/dsm.png")} alt="dsm icon" />
+        <div className={styles.aboutItemText}>
+            <p>My name is João Veasey Pedro, I'm 19 years old, and I'm in the 4th semester of Multiplatform Software Development at <a href="https://fatecmatao.edu.br/site-fatec/cursos/desenvolvimento-de-software-multiplataforma/conheca-o-curso/">Fatec Matão</a>.</p>
+        </div>
+    </li>
+    <li className={styles.aboutItem}>
+    <img src={getImageUrl("about/cursorIcon.png")} alt="cursor icon" />
+        <div className={styles.aboutItemText}>
+            <p>I am passionate about technology and systems development, and I'm eager to apply and grow my skills.</p>
+        </div>
+    </li>
+    <li className={styles.aboutItem}>
+    <img src={getImageUrl("about/lastIcon.png")} alt="cursorIcon" />
+        <div className={styles.aboutItemText}>
+            <p>I currently intern at <a href='https://supley.com.br'>Supley</a>, where I gain hands-on experience in technical support and infrastructure, learning new skills and receiving feedback.</p>
+        </div>
+    </li>
+    <li className={styles.aboutItem}>
+    <img src={getImageUrl("about/serverIcon.png")} alt="cursorIcon" />
+        <div className={styles.aboutItemText}>
+            <p>I'm working to become a Full Stack Developer, aiming to build efficient solutions and keep advancing in my career.</p>
+        </div>
+    </li>
+</ul>
         </div>
     </section>
   )

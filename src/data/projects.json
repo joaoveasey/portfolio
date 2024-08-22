@@ -8,19 +8,20 @@
       "source": "https://github.com/joaoveasey/projeto-pets-react"
     },
     {
-      "title": "Crud API",
-      "imageSrc": "projects/crud_api.png",
-      "description": "Project that performs basic operations with Database.",
-      "skills": ["C#", "Swagger", "SQL Server"],
-      "source": "https://github.com/joaoveasey/crud-api"
+      "title": "Movies API",
+      "imageSrc": "projects/project.png",
+      "description": "Project that performs operations with Database.",
+      "skills": ["C#", "ASP.NET Web API", "MySQL", "JWT" ],
+      "source": "https://github.com/joaoveasey/movies-api"
     },
     {
       "title": "Calculator with Tests",
-      "imageSrc": "projects/calculadora_testes.png",
-      "description": "Project designed to improve knowledge in unit testing with xUnit.",
-      "skills": ["C#", ".NET","xUnit"],
-      "source": "https://github.com/joaoveasey/calculadora-orientada-a-testes"
-    },
+      "imageSrc": "projects/calculator.png",
+      "description": "Project aimed at enhancing knowledge in CI/CD pipelines.",
+      "skills": ["HTML", "CSS", "JavaScript", "Jest"],
+      "demo": "https://pipeline-ci-cd.vercel.app",
+      "source": "https://github.com/joaoveasey/pipeline-ci-cd"
+    },    
     {
       "title": "User Register",
       "imageSrc": "projects/windows_forms.png",
@@ -34,11 +35,5 @@
       "description": "Project to apply knowledge of the NoSQL Database subject.",
       "skills": ["JavaScript", "Node.js", "MongoDB", "Postman"],
       "source": "https://github.com/joaoveasey/mongo-db-node-crud"
-    },
-    {
-      "title": "Consuming External API",
-      "imageSrc": "projects/project.png",
-      "description": "(in progress)",
-      "skills": ["C#", ".NET", "Swagger"]
     }
   ]
