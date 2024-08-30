@@ -10,8 +10,8 @@
     {
       "title": "Movies API",
       "imageSrc": "projects/project.png",
-      "description": "Project that performs operations with Database.",
-      "skills": ["C#", "ASP.NET Web API", "MySQL", "JWT" ],
+      "description": "Project built with ASP.NET Web API that enables database operations and management.",
+      "skills": ["C#", "Web API", "MySQL", "Unit Tests" ],
       "source": "https://github.com/joaoveasey/movies-api"
     },
     {

@@ -28,7 +28,7 @@ export const About = () => {
     <li className={styles.aboutItem}>
     <img src={getImageUrl("about/lastIcon.png")} alt="cursorIcon" />
         <div className={styles.aboutItemText}>
-            <p>I currently intern at <a href='https://supley.com.br'>Supley</a>, where I gain hands-on experience in technical support and infrastructure, learning new skills and receiving feedback.</p>
+            <p>I am currently interning at <a href="https://supley.com.br">Supley</a>, where I am gaining hands-on experience in technical support, developing new skills, and enhancing my communication abilities.</p>
         </div>
     </li>
     <li className={styles.aboutItem}>
